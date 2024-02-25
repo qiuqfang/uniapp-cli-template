@@ -6,6 +6,12 @@
       "style": {
         "navigationBarTitleText": "uni-app"
       }
+    },
+    {
+      "path": "pages/unocss-test/unocss-test",
+      "style": {
+        "navigationBarTitleText": "unocss-test"
+      }
     }
   ],
   "globalStyle": {
