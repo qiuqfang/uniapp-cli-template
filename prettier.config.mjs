@@ -1,7 +1,7 @@
 /**
  * 参考 https://prettier.io/docs/en/options.html
  */
-module.exports = {
+export default {
   printWidth: 100, // 换行的宽度
   tabWidth: 2, // 空格数
   useTabs: false, // 是否开启tab
